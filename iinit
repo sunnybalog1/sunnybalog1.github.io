@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title><h2>My Daily activities</h2>></title>
+<title><h2>snippet about me</h2>></title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -32,8 +32,8 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="header"></h2>>
 <p>-----------Hosted with GitHub Pages--------------</p><br>
 <p class="w3-text-grey">    Happy to start this web page that reflects my journey into tech world</p>
-<p class="w3-text-grey">    I'm a Control system engineer, learning how to use coding to solve human problems</p>
-<p class="w3-text-grey">    This decision started fully sometimes in 2020 and I'm never looking back</p>
+<p class="w3-text-grey">    I'm a Control system engineer, learning how to use codes to solve human problems</p>
+<p class="w3-text-grey">    This decision started fully sometimes in 2020 and I have never looked back</p>
 <br>
 <br>
 
@@ -57,6 +57,7 @@ h1, h2, h3, h4, h5, h6 {
         <div class="w3-col m6 w3-padding-large">
             <h1 class="w3-center">About techBalogs</h1><br>
             <h5 class="w3-center">Lifelong learning mindset brought me here</h5>
+            <a href="https://github.com/sunnybalog">my active github page</a>
             <p class="w3-large">More is coming on this <span class="w3-tag w3-light-grey">space</span></p>
             <p class="w3-large w3-text-grey w3-hide-medium">Come with me</p>
         </div>
